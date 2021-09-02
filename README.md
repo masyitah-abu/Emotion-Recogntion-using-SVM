@@ -34,4 +34,8 @@
     <p align="center">
       <img width="60%" height="60%" src= "https://github.com/masyitah-abu/Emotion-Recogntion-using-SVM/blob/main/Predict.png">
     </p>  
+    
+    
+- Specification used for this work:
+  - Matlab 2018a
  
